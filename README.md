@@ -1,2 +1,2 @@
 # Desafio De Projeto GIT/GITHUB 📝
-Desafio proposto pela Digital Innovation One (DIO) em relação a manipulação do Git/GitHub
+Desafio proposto pela Digital Innovation One (DIO) de manipulação do GitHub ao longo do BootCamp da empresa Localiza
